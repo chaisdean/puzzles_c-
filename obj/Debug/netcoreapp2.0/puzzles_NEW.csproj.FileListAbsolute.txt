@@ -1,0 +1,10 @@
+/Users/capslock/Desktop/puzzles_NEW/bin/Debug/netcoreapp2.0/puzzles_NEW.deps.json
+/Users/capslock/Desktop/puzzles_NEW/bin/Debug/netcoreapp2.0/puzzles_NEW.runtimeconfig.json
+/Users/capslock/Desktop/puzzles_NEW/bin/Debug/netcoreapp2.0/puzzles_NEW.runtimeconfig.dev.json
+/Users/capslock/Desktop/puzzles_NEW/bin/Debug/netcoreapp2.0/puzzles_NEW.dll
+/Users/capslock/Desktop/puzzles_NEW/bin/Debug/netcoreapp2.0/puzzles_NEW.pdb
+/Users/capslock/Desktop/puzzles_NEW/obj/Debug/netcoreapp2.0/puzzles_NEW.csproj.CoreCompileInputs.cache
+/Users/capslock/Desktop/puzzles_NEW/obj/Debug/netcoreapp2.0/puzzles_NEW.AssemblyInfoInputs.cache
+/Users/capslock/Desktop/puzzles_NEW/obj/Debug/netcoreapp2.0/puzzles_NEW.AssemblyInfo.cs
+/Users/capslock/Desktop/puzzles_NEW/obj/Debug/netcoreapp2.0/puzzles_NEW.dll
+/Users/capslock/Desktop/puzzles_NEW/obj/Debug/netcoreapp2.0/puzzles_NEW.pdb
